@@ -15,6 +15,6 @@ void push_back(DynArr *d, int num);
 void pop_back(DynArr *d);
 void destroy_array(DynArr *d);
 int at_index(DynArr *d, size_t ind);
-int set_at_index(DynArr *d, size_t ind, int num);
+void set_at_index(DynArr *d, size_t ind, int num);
 
 #endif /* ifdef DYN_ARR */

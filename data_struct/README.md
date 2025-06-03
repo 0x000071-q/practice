@@ -1,7 +1,7 @@
 Dynamic array 🟨✅
 
-Singly linked list
-Doubly linked list
+Singly linked list 🟨
+Doubly linked list 
 Circular
 
 Stack
@@ -9,7 +9,7 @@ Stack
 Queue
 Deque
 
-Hash table
+Hash table 🟨
 
 
 Set 

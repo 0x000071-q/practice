@@ -33,7 +33,9 @@ void pop_back(DynArr *d) {
 
 int at_index(DynArr *d, size_t ind) { return d->arr[ind]; }
 
-int set_at_index(DynArr *d, size_t ind, int num) { d->arr[ind] = num; } // later
+void set_at_index(DynArr *d, size_t ind, int num) {
+  d->arr[ind] = num;
+} // later
 
 void destroy_array(DynArr *d) {
   free(d->arr);
