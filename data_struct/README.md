@@ -1,4 +1,4 @@
-Dynamic array
+Dynamic array 🟨✅
 
 Singly linked list
 Doubly linked list
